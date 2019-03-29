@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Ayush"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/linkedIn.png"
   bio              : "Data Scientist by profession. Interested in Numbers, Language and Visualizations"
   location         : "Hyderabad, India"
   email            :
