@@ -1,2 +1,2 @@
 # ayushthakur.github.io
-Profile Page
+My personal blog
