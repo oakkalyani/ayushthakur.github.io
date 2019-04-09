@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink:  /graphs/
-title: "Graphs tell you a story"
+permalink:  /life-calendar/
+title: "Every week in life"
 author_profile: true
 ---
