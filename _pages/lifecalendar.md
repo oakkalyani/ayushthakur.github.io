@@ -1,6 +1,6 @@
 ---
 layout: archive
 permalink:  /lifecalendar/
-title: "Every week in life"
+title: "life"
 author_profile: true
 ---
