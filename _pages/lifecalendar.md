@@ -1,6 +1,6 @@
 ---
 layout: archive
 permalink:  /lifecalendar/
-title: "life"
+title: "lifecalendar"
 author_profile: true
 ---
